@@ -1,0 +1,6 @@
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.Middleware.Map\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.Map.AssemblyInfoInputs.cache
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.Middleware.Map\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.Map.AssemblyInfo.cs
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.Middleware.Map\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.Map.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.Middleware.Map\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.Map.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.Middleware.Map\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.Map.dll
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.Middleware.Map\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.Map.pdb

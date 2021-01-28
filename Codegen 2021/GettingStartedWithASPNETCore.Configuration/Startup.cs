@@ -1,16 +1,15 @@
 using System;
-using System.Linq;
-using System.Globalization;
-using System.Threading.Tasks;
 using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using GettingStartedWithASPNETCore.Middleware.Custom.Middleware;
+using GettingStartedWithASPNETCore.Configuration.Middleware;
 
-namespace GettingStartedWithASPNETCore.Middleware.Custom
+namespace GettingStartedWithASPNETCore.Configuration
 {
     public class Startup
     {
@@ -19,12 +18,13 @@ namespace GettingStartedWithASPNETCore.Middleware.Custom
         }
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            app.UseMiddleware<RequestCultureMiddleware>();
-            app.UseMiddleware<RequestCultureMiddleware>();
-            app.Run(async (context) =>
+            app.UseMiddleware<OptionMiddleware>();
+            app.UseEndpoints(endpoints =>
             {
-                await context.Response.WriteAsync(
-                    $"Hello {CultureInfo.CurrentCulture.DisplayName}");
+                endpoints.MapGet("/", async context =>
+                {
+                    await context.Response.WriteAsync("Hello World!");
+                });
             });
         }
     }

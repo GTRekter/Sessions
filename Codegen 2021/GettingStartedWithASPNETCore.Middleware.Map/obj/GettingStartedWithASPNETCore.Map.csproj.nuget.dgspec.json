@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivanp\\Desktop\\Sessions\\Codegen 2021\\GettingStartedWithASPNETCore.Middleware.Map\\GettingStartedWithASPNETCore.Middleware.Map.csproj": {}
+    "C:\\Users\\ivanp\\Desktop\\Sessions\\Codegen 2021\\GettingStartedWithASPNETCore.Middleware.Map\\GettingStartedWithASPNETCore.Map.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivanp\\Desktop\\Sessions\\Codegen 2021\\GettingStartedWithASPNETCore.Middleware.Map\\GettingStartedWithASPNETCore.Middleware.Map.csproj": {
+    "C:\\Users\\ivanp\\Desktop\\Sessions\\Codegen 2021\\GettingStartedWithASPNETCore.Middleware.Map\\GettingStartedWithASPNETCore.Map.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivanp\\Desktop\\Sessions\\Codegen 2021\\GettingStartedWithASPNETCore.Middleware.Map\\GettingStartedWithASPNETCore.Middleware.Map.csproj",
-        "projectName": "GettingStartedWithASPNETCore.Middleware.Map",
-        "projectPath": "C:\\Users\\ivanp\\Desktop\\Sessions\\Codegen 2021\\GettingStartedWithASPNETCore.Middleware.Map\\GettingStartedWithASPNETCore.Middleware.Map.csproj",
+        "projectUniqueName": "C:\\Users\\ivanp\\Desktop\\Sessions\\Codegen 2021\\GettingStartedWithASPNETCore.Middleware.Map\\GettingStartedWithASPNETCore.Map.csproj",
+        "projectName": "GettingStartedWithASPNETCore.Map",
+        "projectPath": "C:\\Users\\ivanp\\Desktop\\Sessions\\Codegen 2021\\GettingStartedWithASPNETCore.Middleware.Map\\GettingStartedWithASPNETCore.Map.csproj",
         "packagesPath": "C:\\Users\\ivanp\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ivanp\\Desktop\\Sessions\\Codegen 2021\\GettingStartedWithASPNETCore.Middleware.Map\\obj\\",
         "projectStyle": "PackageReference",

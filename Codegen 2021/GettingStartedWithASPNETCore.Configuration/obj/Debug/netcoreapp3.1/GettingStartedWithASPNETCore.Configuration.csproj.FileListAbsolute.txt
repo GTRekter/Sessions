@@ -1,0 +1,7 @@
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.Configuration\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.Configuration.csprojAssemblyReference.cache
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.Configuration\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.Configuration.AssemblyInfoInputs.cache
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.Configuration\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.Configuration.AssemblyInfo.cs
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.Configuration\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.Configuration\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.Configuration.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.Configuration\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.Configuration.dll
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.Configuration\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.Configuration.pdb

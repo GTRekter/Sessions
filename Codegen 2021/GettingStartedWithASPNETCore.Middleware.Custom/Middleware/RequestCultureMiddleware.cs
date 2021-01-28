@@ -16,19 +16,15 @@ namespace GettingStartedWithASPNETCore.Middleware.Custom.Middleware
             _next = next;
         }
 
-        public async Task InvokeAsync(HttpContext context)
+        public async Task Invoke(HttpContext httpContext)
         {
-            var cultureQuery = context.Request.Query["culture"];
-            if (!string.IsNullOrWhiteSpace(cultureQuery))
-            {
-                var culture = new CultureInfo(cultureQuery);
+            var cultureQuery = httpContext.Request.Query["culture"];
+            var culture = new CultureInfo(cultureQuery);
 
                 CultureInfo.CurrentCulture = culture;
                 CultureInfo.CurrentUICulture = culture;
-            }
 
-            // Call the next delegate/middleware in the pipeline
-            await _next(context);
+            await _next(httpContext);
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xk9zy6G3hvh6mPmDOpW1eSShnqAsPSs5wHh0Xg6ja5z6/rjB8sSPUXLIbxDZt0DubNU0EjgB1zV1FuB+YsVGAQ==",
+  "dgSpecHash": "yWrUjVLcZPU8UjqkVvTT9x3VdYMiekKaOgOO2MNscZ+Uu+oNWN8R1NrpV5hTsYExmLFck+7GsWhuOz59AyYfIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ivanp\\Desktop\\Sessions\\Codegen 2021\\GettingStartedWithASPNETCore.Middleware.Map\\GettingStartedWithASPNETCore.Middleware.Map.csproj",
+  "projectFilePath": "C:\\Users\\ivanp\\Desktop\\Sessions\\Codegen 2021\\GettingStartedWithASPNETCore.Middleware.Map\\GettingStartedWithASPNETCore.Map.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

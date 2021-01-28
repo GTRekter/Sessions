@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace GettingStartedWithASPNETCore.Middleware.Map
+namespace GettingStartedWithASPNETCore.Map
 {
     public class Startup
     {
