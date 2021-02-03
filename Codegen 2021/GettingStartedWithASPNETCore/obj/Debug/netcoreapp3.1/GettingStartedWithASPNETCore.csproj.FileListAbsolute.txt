@@ -1,0 +1,47 @@
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.exe
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.deps.json
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.runtimeconfig.json
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.runtimeconfig.dev.json
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.dll
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.pdb
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.csprojAssemblyReference.cache
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.AssemblyInfoInputs.cache
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.AssemblyInfo.cs
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\staticwebassets\GettingStartedWithASPNETCore.StaticWebAssets.Manifest.cache
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\staticwebassets\GettingStartedWithASPNETCore.StaticWebAssets.xml
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\GettingStartedWithASPNETCore.styles.css
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.RazorTargetAssemblyInfo.cache
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.dll
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.pdb
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.genruntimeconfig.cache
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\Files\starship.json
+C:\Users\ivanp\Desktop\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\Files\json_array.json
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.AssemblyInfoInputs.cache
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.AssemblyInfo.cs
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.csprojAssemblyReference.cache
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.dll
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.pdb
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\Files\starship.json
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.exe
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.deps.json
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.runtimeconfig.json
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.runtimeconfig.dev.json
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.dll
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.pdb
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.VisualBasic.dll
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\bin\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.VisualBasic.pdb
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\staticwebassets\GettingStartedWithASPNETCore.StaticWebAssets.Manifest.cache
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\staticwebassets\GettingStartedWithASPNETCore.StaticWebAssets.xml
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\GettingStartedWithASPNETCore.styles.css
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.RazorTargetAssemblyInfo.cache
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.csproj.CopyComplete
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.genruntimeconfig.cache
