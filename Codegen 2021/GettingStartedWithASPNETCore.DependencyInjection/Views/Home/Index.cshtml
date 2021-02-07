@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Controller operations</h1>
+    <p>
+        <b>OperationTransient:</b> @ViewBag.OperationTransient
+    </p>
+    <p>
+        <b>OperationScoped:</b> @ViewBag.OperationScoped
+    </p>
+    <p>
+        <b>OperationSingleton:</b> @ViewBag.OperationSingleton
+    </p>
+    <h1 class="display-4">Service operations</h1>
+    <p>
+        <b>OperationTransient:</b> @ViewBag.ServiceOperationTransient
+    </p>
+    <p>
+        <b>OperationScoped:</b> @ViewBag.ServiceOperationScoped
+    </p>
+    <p>
+        <b>OperationSingleton:</b> @ViewBag.ServiceOperationSingleton
+    </p>
+</div>

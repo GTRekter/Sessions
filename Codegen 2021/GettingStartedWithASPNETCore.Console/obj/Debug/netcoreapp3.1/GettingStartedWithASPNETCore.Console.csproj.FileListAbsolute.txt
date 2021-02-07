@@ -1,0 +1,4 @@
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.Console\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.Console.csprojAssemblyReference.cache
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.Console\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.Console.AssemblyInfoInputs.cache
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.Console\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.Console.AssemblyInfo.cs
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.Console\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.Console.csproj.CoreCompileInputs.cache

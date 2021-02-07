@@ -1,0 +1,18 @@
+C:\Users\ivanp\Desktop\Sessions\GettingStartedWithASPNETCore.VisualBasic\bin\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.VisualBasic.deps.json
+C:\Users\ivanp\Desktop\Sessions\GettingStartedWithASPNETCore.VisualBasic\bin\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.VisualBasic.dll
+C:\Users\ivanp\Desktop\Sessions\GettingStartedWithASPNETCore.VisualBasic\bin\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.VisualBasic.pdb
+C:\Users\ivanp\Desktop\Sessions\GettingStartedWithASPNETCore.VisualBasic\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.VisualBasic.vbprojAssemblyReference.cache
+C:\Users\ivanp\Desktop\Sessions\GettingStartedWithASPNETCore.VisualBasic\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.VisualBasic.AssemblyInfoInputs.cache
+C:\Users\ivanp\Desktop\Sessions\GettingStartedWithASPNETCore.VisualBasic\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.VisualBasic.AssemblyInfo.vb
+C:\Users\ivanp\Desktop\Sessions\GettingStartedWithASPNETCore.VisualBasic\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.VisualBasic.vbproj.CoreCompileInputs.cache
+C:\Users\ivanp\Desktop\Sessions\GettingStartedWithASPNETCore.VisualBasic\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.VisualBasic.dll
+C:\Users\ivanp\Desktop\Sessions\GettingStartedWithASPNETCore.VisualBasic\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.VisualBasic.pdb
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.VisualBasic\bin\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.VisualBasic.deps.json
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.VisualBasic\bin\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.VisualBasic.dll
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.VisualBasic\bin\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.VisualBasic.pdb
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.VisualBasic\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.VisualBasic.vbprojAssemblyReference.cache
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.VisualBasic\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.VisualBasic.AssemblyInfoInputs.cache
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.VisualBasic\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.VisualBasic.AssemblyInfo.vb
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.VisualBasic\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.VisualBasic.vbproj.CoreCompileInputs.cache
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.VisualBasic\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.VisualBasic.dll
+C:\Users\ivanp\Desktop\Sessions\Codegen 2021\GettingStartedWithASPNETCore.VisualBasic\obj\Debug\netcoreapp3.1\GettingStartedWithASPNETCore.VisualBasic.pdb
