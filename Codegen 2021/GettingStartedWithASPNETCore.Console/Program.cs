@@ -1,4 +1,4 @@
-﻿using GettingStartedWithASPNETCore.VisualBasic;
+﻿using VisualBasicLibrary = GettingStartedWithASPNETCore.VisualBasic;
 using System;
 
 namespace GettingStartedWithASPNETCore.ConsoleApp
@@ -7,7 +7,6 @@ namespace GettingStartedWithASPNETCore.ConsoleApp
     {
         static void Main(string[] args)
         {
-            // TODO 0: References with other projects
             Console.Write("Enter a number: ");
             int number;
             string input;
@@ -16,7 +15,11 @@ namespace GettingStartedWithASPNETCore.ConsoleApp
                 Console.WriteLine("enter number of conversations");
                 input = Console.ReadLine();
             } while (int.TryParse(input, out number) == false);
-            var isPrime = Number.IsPrime(number);
+
+            var isPrime = VisualBasicLibrary.Number.IsPrime(number);
+            Console.WriteLine(isPrime);
+
+            isPrime = Number.IsPrime(number);
             Console.WriteLine(isPrime);
         }
     }
