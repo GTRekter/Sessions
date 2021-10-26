@@ -1,0 +1,10 @@
+FROM node:alpine
+# WORKDIR /usr/local/app
+WORKDIR /output
+# COPY /output/package.json .
+COPY /output .
+RUN yarn install 
+# ADD . .
+RUN yarn build
+EXPOSE 3000
+CMD [ "yarn", "run", "start" ]
